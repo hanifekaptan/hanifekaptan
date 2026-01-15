@@ -1,25 +1,34 @@
-<div align="center">
 
-<table>
-<tr>
-	<td align="center" width="30%">
-		<img src="assets/intro.png" alt="Hanife Kaptan" width="170" height="170" style="border-radius:50%; object-fit:cover;" />
-	</td>
-	<td width="70%" align="left">
-		<h1>Hanife Kaptan</h1>
-		<a href="https://git.io/typing-svg">
-			<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=24&pause=1000&color=0A66C2&width=600&lines=Product-Minded+AI+Engineer;Building+Scalable+LLM+Systems;Python+Backend+%26+MLOps+Practitioner" alt="Typing SVG" />
-		</a>
-		<br/><br/>
-		<p>
-			<a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-0A66C2?style=for-the-badge&labelColor=0A66C2" alt="Projects"/></a>
-			<a href="#about"><img src="https://img.shields.io/badge/About-FF8A65?style=for-the-badge&labelColor=FF8A65" alt="About"/></a>
-			<a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-FFB020?style=for-the-badge&labelColor=FFB020" alt="Tech Stack"/></a>
-			<a href="#contact"><img src="https://img.shields.io/badge/Contact-64748B?style=for-the-badge&labelColor=64748B" alt="Contact"/></a>
-		</p>
-	</td>
-</tr>
-</table>
+<!-- Top navigation bar -->
+<nav align="center">
+  <p>
+    <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-0A66C2?style=for-the-badge&labelColor=0A66C2" alt="Projects"/></a>
+    <a href="#about"><img src="https://img.shields.io/badge/About-0A66C2?style=for-the-badge&labelColor=0A66C2" alt="About"/></a>
+    <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-0A66C2?style=for-the-badge&labelColor=0A66C2" alt="Tech Stack"/></a>
+    <a href="#contact"><img src="https://img.shields.io/badge/Contact-0A66C2?style=for-the-badge&labelColor=0A66C2" alt="Contact"/></a>
+  </p>
+</nav>
+
+<!-- Hero image -->
+<p align="center">
+  <img src="assets/intro.png" alt="Hanife Kaptan" width="300" height="300" style="border-radius:20px; object-fit:cover;" />
+</p>
+
+
+<!-- Name and title (centered block) -->
+<div align="center">
+	<h1>Hello, I'm Hanife</h1>
+	<p>
+		<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=32&pause=1000&color=0A66C2&width=600&lines=Product-Minded+AI+Engineer;Building+Scalable+LLM+Systems;Python+Backend+%26+MLOps+Practitioner" alt="Typing SVG" />
+	</p>
+	<h2>About</h2>
+	<p>
+		Hello! I'm Hanife Kaptan, a product-focused AI engineer and Python developer. I design practical AI solutions to solve complex business problems and turn them into scalable, production-ready systems. My work spans deep learning, NLP, and autonomous agents with strong MLOps and backend engineering practices.
+	</p>
+	<p>
+		I believe code is not only a technical output but also a strategic tool that enhances user experience and business value. I manage the whole lifecycle from idea to deployment, balancing technical excellence and time-to-market.
+	</p>
+</div>
 
 <br/>
 
@@ -101,13 +110,6 @@
 
 <br/>
 
-## About
-
-Hello! I'm Hanife Kaptan, a product-focused AI engineer and Python developer. I design practical AI solutions to solve complex business problems and turn them into scalable, production-ready systems. My work spans deep learning, NLP, and autonomous agents with strong MLOps and backend engineering practices.
-
-I believe code is not only a technical output but also a strategic tool that enhances user experience and business value. I manage the whole lifecycle from idea to deployment, balancing technical excellence and time-to-market.
-
-<br/>
 
 ## Tech Stack & Tools
 
