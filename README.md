@@ -43,15 +43,15 @@ I believe code is not only a technical output but also a strategic tool that enh
 		A RAG-based AI code mentor and reviewer that analyzes submitted code snippets against SOLID principles and common style guides, highlights issues, and provides interactive suggestions to improve code quality.
 	</p>
 	<p align="center">
-		<img src="https://img.shields.io/badge/RAG_Pipeline-6C5CE7?style=for-the-badge&logo=openai&logoColor=white"/>
-		<img src="https://img.shields.io/badge/LangChain-6C5CE7?style=for-the-badge&logo=langchain&logoColor=white"/>
-		<img src="https://img.shields.io/badge/FAISS-6C5CE7?style=for-the-badge&logo=facebook&logoColor=white"/>
-		<img src="https://img.shields.io/badge/FastAPI-0EA5A4?style=for-the-badge&logo=fastapi&logoColor=white"/>
-		<img src="https://img.shields.io/badge/Docker-0EA5A4?style=for-the-badge&logo=docker&logoColor=white"/>
+		<img src="https://img.shields.io/badge/RAG_Pipeline-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+		<img src="https://img.shields.io/badge/LangChain-6E4BD8?style=for-the-badge&logo=langchain&logoColor=white"/>
+		<img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+		<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 	</p>
 	<p align="center">
-		<a href="https://huggingface.co/spaces/hanifekaptan/ai-powered-code-quality-assistant"><img src="https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge" alt="Live Demo"/></a>
-		<a href="https://github.com/hanifekaptan/ai-powered-code-quality-assistant"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github" alt="Source Code"/></a>
+		<a href="https://huggingface.co/spaces/hanifekaptan/ai-powered-code-quality-assistant"><img src="https://img.shields.io/badge/Live_Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Live Demo"/></a>
+		<a href="https://github.com/hanifekaptan/ai-powered-code-quality-assistant"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
 	</p>
 </td>
 <td width="50%" valign="top">
@@ -62,12 +62,12 @@ I believe code is not only a technical output but also a strategic tool that enh
 	<p align="center">
 		<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 		<img src="https://img.shields.io/badge/CNN_Arch-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-		<img src="https://img.shields.io/badge/OpenCV-7C5CE7?style=for-the-badge&logo=opencv&logoColor=white"/>
+		<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 		<img src="https://img.shields.io/badge/YOLO-00E5FF?style=for-the-badge&logo=yolo&logoColor=black"/>
-		<img src="https://img.shields.io/badge/MLOps-0EA5A4?style=for-the-badge&logo=githubactions&logoColor=white"/>
+		<img src="https://img.shields.io/badge/MLOps-2496ED?style=for-the-badge&logo=githubactions&logoColor=white"/>
 	</p>
 	<p align="center">
-		<a href="https://github.com/hanifekaptan/Hair-Health-Analysis"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github" alt="Source Code"/></a>
+		<a href="https://github.com/hanifekaptan/Hair-Health-Analysis"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
 	</p>
 </td>
 </tr>
@@ -78,15 +78,15 @@ I believe code is not only a technical output but also a strategic tool that enh
 		LangChain-based agents that autonomously extract product aspects and perform sentiment analysis over reviews, providing actionable customer insights for product teams.
 	</p>
 	<p align="center">
-		<img src="https://img.shields.io/badge/AI_Agents-6C5CE7?style=for-the-badge&logo=robotframework&logoColor=white"/>
-		<img src="https://img.shields.io/badge/LangChain-6C5CE7?style=for-the-badge&logo=langchain&logoColor=white"/>
+		<img src="https://img.shields.io/badge/AI_Agents-0F172A?style=for-the-badge&logo=robotframework&logoColor=white"/>
+		<img src="https://img.shields.io/badge/LangChain-6E4BD8?style=for-the-badge&logo=langchain&logoColor=white"/>
 		<img src="https://img.shields.io/badge/NLP-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-		<img src="https://img.shields.io/badge/LLMs-8E77D3?style=for-the-badge&logo=googlebard&logoColor=white"/>
+		<img src="https://img.shields.io/badge/LLMs-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Pytest-0A9B71?style=for-the-badge&logo=pytest&logoColor=white"/>
 	</p>
 	<p align="center">
-		<a href="https://huggingface.co/spaces/hanifekaptan/ai-agent-for-aspect-based-sentiment-analysis"><img src="https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge" alt="Live Demo"/></a>
-		<a href="https://github.com/hanifekaptan/ai-agent-for-aspect-based-sentiment-analysis"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github" alt="Source Code"/></a>
+		<a href="https://huggingface.co/spaces/hanifekaptan/ai-agent-for-aspect-based-sentiment-analysis"><img src="https://img.shields.io/badge/Live_Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Live Demo"/></a>
+		<a href="https://github.com/hanifekaptan/ai-agent-for-aspect-based-sentiment-analysis"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
 	</p>
 </td>
 <td width="50%" valign="top">
@@ -96,14 +96,14 @@ I believe code is not only a technical output but also a strategic tool that enh
 	</p>
 	<p align="center">
 		<img src="https://img.shields.io/badge/Vector_Search-5468FF?style=for-the-badge&logo=algolia&logoColor=white"/>
-		<img src="https://img.shields.io/badge/Embeddings-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 		<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 	</p>
 	<p align="center">
-		<a href="https://huggingface.co/spaces/hanifekaptan/semantic-recipe-finder"><img src="https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge" alt="Live Demo"/></a>
-		<a href="https://github.com/hanifekaptan/semantic-recipe-finder"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github" alt="Source Code"/></a>
+		<a href="https://huggingface.co/spaces/hanifekaptan/semantic-recipe-finder"><img src="https://img.shields.io/badge/Live_Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Live Demo"/></a>
+		<a href="https://github.com/hanifekaptan/semantic-recipe-finder"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
 	</p>
 </td>
 </tr>
@@ -120,10 +120,16 @@ I believe code is not only a technical output but also a strategic tool that enh
 	<h3 align="center">Generative AI & Agents</h3>
 	<p align="center">Building autonomous agents and LLM-driven systems for complex automation.</p>
 	<p align="center">
-		<img src="https://img.shields.io/badge/LangChain-6C5CE7?style=for-the-badge&logo=langchain&logoColor=white"/>
-		<img src="https://img.shields.io/badge/LlamaIndex-6C5CE7?style=for-the-badge&logo=llama&logoColor=white"/>
+		<img src="https://img.shields.io/badge/LangChain-6E4BD8?style=for-the-badge&logo=langchain&logoColor=white"/>
+		<img src="https://img.shields.io/badge/LangGraph-20222A?style=for-the-badge&logo=langgraph&logoColor=white"/>
+		<img src="https://img.shields.io/badge/LlamaIndex-6E4BD8?style=for-the-badge&logo=llamaindex&logoColor=white"/>
 		<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+		<img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Chroma-4D4DFF?style=for-the-badge&logo=chroma&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Pinecone-3C76FF?style=for-the-badge&logo=pinecone&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Milvus-FF5A5F?style=for-the-badge&logo=milvus&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Weaviate-00C2CB?style=for-the-badge&logo=weaviate&logoColor=white"/>
 	</p>
 </td>
 <td width="50%" valign="top">
@@ -133,6 +139,10 @@ I believe code is not only a technical output but also a strategic tool that enh
 		<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 		<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+		<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Numpy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white"/>
+		<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 	</p>
 </td>
 </tr>
@@ -142,7 +152,8 @@ I believe code is not only a technical output but also a strategic tool that enh
 	<p align="center">Robust, scalable backends and cloud-native deployments.</p>
 	<p align="center">
 		<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-		<img src="https://img.shields.io/badge/FastAPI-0EA5A4?style=for-the-badge&logo=fastapi&logoColor=white"/>
+		<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+		<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
 		<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 	</p>
 </td>
@@ -150,8 +161,9 @@ I believe code is not only a technical output but also a strategic tool that enh
 	<h3 align="center">MLOps & Tools</h3>
 	<p align="center">Automation, CI/CD and model lifecycle management for production systems.</p>
 	<p align="center">
-		<img src="https://img.shields.io/badge/Docker-0EA5A4?style=for-the-badge&logo=docker&logoColor=white"/>
-		<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Pytest-0A9B71?style=for-the-badge&logo=pytest&logoColor=white"/>
 		<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 	</p>
 </td>
@@ -162,11 +174,11 @@ I believe code is not only a technical output but also a strategic tool that enh
 
 ## Contact
 
-<p align="center">
+<p align="left">
 	<a href="https://www.linkedin.com/in/hanifekaptan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="mailto:hanifekaptan.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 	<a href="https://huggingface.co/hanifekaptan" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
-	<a href="https://medium.com/@hanifekaptan" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+	<a href="https://medium.com/@hanifekaptan" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
 </div>
